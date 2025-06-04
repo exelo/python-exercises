@@ -4,4 +4,3 @@
     
   2. Obtain count of all error return code:500 per hour from the log file: [bin/logs/web-server.log](bin/logs/web-server.log) (return code error is 5th field). This log file is just an example log file.
      * program: [bin/count_err_in_log_file.py](bin/count_err_in_log_file.py)
-  
